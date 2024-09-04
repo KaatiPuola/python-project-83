@@ -1,4 +1,4 @@
-from urlib.parse import urlparse
+from urllib.parse import urlparse
 from validators import url as is_url_valid
 
 
